@@ -5,7 +5,10 @@ Requirements:
 For building and running the application you need:
 
 JDK 21
+
 Gradle
+
+MongoDB
 
 Running the application locally:
 
