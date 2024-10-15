@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @Document(collection = "user")
 public class User {
     @Id
-    @NonNull
+    //@NonNull
     private String userId;
     @NonNull
     private String userName;
